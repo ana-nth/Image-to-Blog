@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+tensorflow
+numpy
+opencv-python
+pillow
+matplotlib
+tk
+roboflow
+openai
